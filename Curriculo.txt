@@ -1,0 +1,44 @@
+Pedro Konorath 
+- 19 years
+- Brazillian
+-------------------------------
+General knowledge
+------------------------------------------
+ OS and Linux - Advanced
+--------------------------------
+Computer networks - Advanced
+--------------------------------------
+Payloads and tools of cybersecurity and CTF'S - intermediate
+--------------------------------------
+Malware Analysis - Beginner
+-------------------------------------
+CTF and Cybersecurity training pages
+---------------------------------------
+portswigger.com
+boitatech.com
+Tryhackme - Knrth00
+CYSOURCE israel academy of cybersecurity
+ beginner in thehackbox
+---------------------------------------------
+Programming languages:
+Python - intermediate
+Html - Intermediate
+Css - Basic
+JavaScript - Basic - Medium
+---------------------------------------
+Wireshark - Advanced
+Studying at the federal university of santa catarina SC
+course - information and communication technology
+---------------------------------------
+found faults
+---------------------------------------
+RCE AND XSS at Simers.com.br
+----------------------------------------
+Subdomain TakeOver in Harvard University
+XSS and SQL Injection in City Hall from Araranguá.com
+----------------------------------------
+Exposure of sensitive data and XSS, SQL Injection CSRF at Moodle UFSC
+----------------------------------------
+among other flaws not commented here
+---------------------------------------------------------
+github/komthie
